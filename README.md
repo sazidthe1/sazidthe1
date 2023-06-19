@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Open Source**
 
-- ❓ Ask me anything on ``` var topics = [ "Python", "Data", "Non-profit" ] ```
+- ❓ Ask me anything on ``` topics = ["Python", "Data", "Non-profit"] ```
 
 - 📧 How to reach me **sazidulislam29@gmail.com**
 
