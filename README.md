@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Sazidul Islam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sazid</h1>
 <h3 align="center">A Machine Learning Enthusiast from Bangladesh 🇧🇩</h3>
 
 <img align="right" alt="Coding" width="400" src="https://thereactivedeveloper.com/assets/hero-me-dark.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=0e75b6&style=flat" alt="sazidthe1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=0eb6a3&style=flat" alt="sazidthe1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sazidthe1" target="blank"><img src="https://img.shields.io/twitter/follow/sazidthe1?logo=twitter&style=for-the-badge" alt="sazidthe1" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+**About me 🙋‍♂️**
+
+- 📚 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 📫 How to reach me **sazidulislam29@gmail.com**
+- ❓ Ask me anything on ``` var topics = [ "Python", "Data", "Non-profit" ] ```
 
-<h3 align="left">Connect with me:</h3>
+- 📧 How to reach me **sazidulislam29@gmail.com**
+
+<h3 align="left">Connect me through:</h3>
 <p align="left">
 <a href="https://twitter.com/sazidthe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazidthe1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sazidulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazidulislam" height="30" width="40" /></a>
