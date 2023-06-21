@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&theme=gotham&hide_border=true&bg_color=00000000&text_color=000000&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sazidthe1&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&text_color=000000&count_private=true&icon_color=439975" alt="Sazid's github stats"/>
 </a></p>
-<br>
 
 ---
 
