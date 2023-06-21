@@ -1,8 +1,3 @@
-h<!---
-sazidthe1/sazidthe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi, I'm Sazid <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A Machine Learning Enthusiast from Bangladesh 🇧🇩</h3>
 
