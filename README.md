@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Sazid <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">A Machine Learning Enthusiast from Bangladesh 🇧🇩</h3>
+![MasterHead](https://github.com/sazidthe1/sazidthe1/blob/main/banner_data%20science.jpg)
+<h1 align="center">Hi, I'm Sazidul Islam <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <h3 align="left"> About me 🙋‍♂️ </h3>
 
-- 📚 I’m currently learning **Machine Learning**
+- 📚 I’m currently learning **Data Science**
 
 - 🤝 I’m looking for help with **Open Source**
 
