@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/sazidthe1/sazidthe1/blob/main/banner_data%20science.jpg)
 <h1 align="center">Hi, I'm Sazidul Islam <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
