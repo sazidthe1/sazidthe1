@@ -2,7 +2,7 @@
 
  <img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=0eb6a3&style=flat" alt="sazidthe1"/>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" />
 
 ### About me
 
