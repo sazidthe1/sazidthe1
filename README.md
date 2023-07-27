@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Sazidul Islam <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-
- <img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=0eb6a3&style=flat" alt="sazidthe1"/>
-
+<h3 align="center">A Data Science and Machine Learning Enthusiast with a Passion for Contributing to Open Source</h3>
+ <img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=00A28C&style=flat" alt="sazidthe1"/>
+<br>
 <img align="right" alt="coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" />
+
 
 ### About me
 
-- 📌 I’m currently working on ``` #100DaysOfCode ```
+- 📌 I’m currently working on ``` 100DaysOfCode ```
 
-- 🧠 I’m currently learning **Data Science**
+- 🧠 I’m currently learning **Data Science, Machine Learning**
 
 - 🤝 I’m looking for help with **Open Source**
 
@@ -29,6 +30,8 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> -->
 
 
+### GitHub stats
+
 <p align="center">
 <a href="https://github.com/sazidthe1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" /></a>
   
@@ -40,7 +43,7 @@
 ---
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything.</i>
+  <i>Have an interesting idea or topic to discuss, let's connect and chat!</i>
   <p align="center">
 <a href="https://twitter.com/sazidthe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazidthe1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sazidthe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazidthe1" height="30" width="40" /></a>
