@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sazidul Islam <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">A Data Science Enthusiast</h3>
+<h3 align="center">A Passionate Data Science Enthusiast</h3>
  <img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=00A28C&style=flat" alt="sazidthe1"/>
 <br>
 <img align="right" alt="coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" />
@@ -9,7 +9,7 @@
 
 - 📌 I’m currently working on ``` 100DaysOfCode ```
 
-- 🧠 I’m currently learning **Data Science, Machine Learning**
+- 🧠 I’m currently learning **Data Science**
 
 - 🤝 I’m looking for help with **Open Source**
 
