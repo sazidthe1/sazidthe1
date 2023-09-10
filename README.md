@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://github.com/sazidthe1/sazidthe1/blob/main/welcome1.gif" alt="Welcome to my GitHub">
+</div>
+
+
 <h1 align="center">Hi, I'm Sazidul Islam <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Data Science Enthusiast</h3>
  <img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=00A28C&style=flat" alt="sazidthe1"/>
