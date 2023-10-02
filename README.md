@@ -2,17 +2,16 @@
     <img src="https://github.com/sazidthe1/sazidthe1/blob/main/welcome.gif" alt="Welcome to my GitHub">
 </div>
 
+<h1 align="center">Hi, I'm Sazidul Islam 👋</h1>
 
-<h1 align="center">Hi, I'm Sazidul Islam <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">A Passionate Data Science Enthusiast</h3>
- <img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=00A28C&style=flat" alt="sazidthe1"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=00A28C&style=flat" alt="sazidthe1"/>
 <br>
 <img align="right" alt="coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" />
 
 
 ### About me
 
-- 📌 I’m currently working on ``` 100DaysOfCode ```
+- 📌 I’m currently working on ``` Hacktoberfest ```
 
 - 🧠 I’m currently learning **Data Science**
 
@@ -23,16 +22,28 @@
 - 📧 How to reach me **sazidulislam29@gmail.com**
 
 
-### Skills
+<h3 align="left">Data Science Stack</h3>
+<p>
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-ffd43b.svg?logo=numpy&logoColor=white"></img>
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-073763.svg?logo=pandas&logoColor=white"></img>
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ff800e.svg?logo=matplotlib&logoColor=white"></img>
+    <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-64b5cd.svg?logo=seaborn&logoColor=white"></img>
+</p>
 
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> -->
+
+<h3 align="left">Databases</h3>
+<p>
+    <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-f29111.svg?logo=mysql&logoColor=seablue"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-00979d.svg?logo=postgresql&logoColor=black"></a>
+</p>
+
+<h3 align="left">Software and Tools</h3>
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44903d.svg?logo=anaconda&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a>
+</p>
 
 
 ### GitHub stats
