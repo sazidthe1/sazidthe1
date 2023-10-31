@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://github.com/sazidthe1/sazidthe1/blob/main/welcome.gif" alt="Welcome to my GitHub">
+    <img src="https://github.com/sazidthe1/sazidthe1/blob/main/welcome1.gif" alt="Welcome to my GitHub">
 </div>
 
-<h1 align="center">Hi, I'm Sazidul Islam 👋</h1>
+<h1 align="center">Hi👋, I'm Sazidul Islam </h1>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=00A28C&style=flat" alt="sazidthe1"/>
 <br>
@@ -11,7 +11,7 @@
 
 ### About me
 
-- 📌 I’m currently working on ``` Hacktoberfest ```
+- 📌 I’m currently working on ``` Python: A to Z ```
 
 - 🧠 I’m currently learning **Data Science**
 
@@ -42,11 +42,10 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44903d.svg?logo=anaconda&logoColor=white"></a>
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a>
 </p>
 
 
-### GitHub stats
+### GitHub Stats
 
 <p align="center">
 <a href="https://github.com/sazidthe1"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&theme=gotham&hide_border=true&bg_color=00000000&text_color=3498db&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" /></a>
