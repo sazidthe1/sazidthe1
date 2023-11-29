@@ -21,60 +21,64 @@
 
 - 📧 How to reach me **sazidulislam29@gmail.com**
 
-
-<details>
    
-<summary><b>Tech Stacks</b></summary>
+### Tech Stacks
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>Programming and Markup Languages</h3>
+  <h4>Markup and Programming Languages</h4>
 
   <p>
-      <a href="https://github.com/search?q=user%3A+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Adorothykiz1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Adorothykiz1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Adorothykiz1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-     
+      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> 
   </p>
 
-  <h3>Frameworks and Libraries</h3>
+  <h4>Frameworks and Libraries</h4>
 
   <p>
-      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-      <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></img>
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-377EB8.svg?logo=matplotlib&logoColor=white">
+      <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ff800e.svg?logo=matplotlib&logoColor=white"></img>
-      <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-64b5cd.svg?logo=seaborn&logoColor=white"></img>
+      <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white">
+      <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-388E3C.svg?logo=seaborn&logoColor=white">
+      <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white">
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
   </p>
 
-  <h3>Databases and Cloud Hosting</h3>
+  <h4>Cloud Hosting and Databases</h4>
 
   <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-      <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-f29111.svg?logo=mysql&logoColor=seablue"></a>
-      <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-
+      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-181717.svg?logo=github&logoColor=white">
+      <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white">
+      <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-f29111.svg?logo=mysql&logoColor=seablue">
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
   </p>
 
-  <h3>Software and Tools</h3>
+<h4>Analytics and Visualization</h4>
 
   <p>
-      <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44903d.svg?logo=anaconda&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-</details>
+      <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4.svg?logo=google-cloud&logoColor=white">
+      <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-025F6D.svg?logo=snowflake&logoColor=white">
+      <img alt="Looker" src="https://img.shields.io/badge/Looker-00AEF9.svg?logo=looker&logoColor=white">
+      <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?logo=powerbi&logoColor=white">
+   </p>
 
-<details>
+  <h4>Software and Tools</h4>
+
+  <p>
+      <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44903d.svg?logo=anaconda&logoColor=white">
+      <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white&color=00A67E">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </p>
+
     
-<summary><b>GitHub Stats</b></summary>
+### GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&layout=compact&theme=cobalt&hide_border=true" />
 
