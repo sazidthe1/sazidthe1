@@ -21,15 +21,17 @@
 
 - 📧 How to reach me **sazidulislam29@gmail.com**
 
-   
+
 ### Tech Stacks
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
+<details>
+    
   <h4>Markup and Programming Languages</h4>
 
   <p>
-      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
       <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> 
   </p>
@@ -38,12 +40,12 @@
 
   <p>
       <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-377EB8.svg?logo=matplotlib&logoColor=white">
+      <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white">
       <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-      <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white">
+      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-377EB8.svg?logo=matplotlib&logoColor=white">
       <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-388E3C.svg?logo=seaborn&logoColor=white">
-      <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white">
+      <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white">
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
   </p>
 
@@ -70,21 +72,21 @@
 
   <p>
       <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44903d.svg?logo=anaconda&logoColor=white">
-      <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white&color=00A67E">
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
       <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+      <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white&color=00A67E">
   </p>
-
+</details>
     
 ### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&layout=compact&theme=cobalt&hide_border=true" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazidthe1&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazidthe1&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+<details>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazidthe1&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" width=55%/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sazidthe1&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width=50%/> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&layout=compact&theme=cobalt&hide_border=true" width=37.75%/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sazidthe1&bg_color=e0ebf1&color=4c689e&line=4c9e61&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
