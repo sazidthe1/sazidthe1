@@ -1,32 +1,22 @@
-<div align="center">
-    <img src="https://github.com/sazidthe1/sazidthe1/blob/main/welcome1.gif" alt="Welcome to my GitHub">
-</div>
+<p align="center">
+  <a target="_blank" href="https://www.kaggle.com/sazidthe1/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a target="_blank" href="https://medium.com/@sazidthe1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a target="_blank" href="https://public.tableau.com/app/profile/sazidthe1"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+</p>
 
-<h1 align="center">Hi👋, I'm Sazidul Islam </h1>
+<h2  align="center"> Hi 👋, I'm Sazidul Islam! Welcome to my profile!</h2>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=00A28C&style=flat" alt="sazidthe1"/>
-<br>
-<img align="right" alt="coding" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="350" />
+### About me 🌱
+- 💻 Aspiring Data Scientist [@Kaggle](https://www.kaggle.com), based in Dhaka, BD
+- 🧠 I’m currently learning Data Science
+- 🛠️ I mostly work with `Python`, `SQL`, and `Bash`
+- ✍️ I write technical blogs on [Medium](https://medium.com/@sazidthe1)
+- ⚡ I enjoy cycling, reading, and listening to podcasts :)
 
-
-### About me
-
-- 📌 I’m currently working on ``` Python: A to Z ```
-
-- 🧠 I’m currently learning **Data Science**
-
-- 🤝 I’m looking for help with **Open Source**
-
-- ❓ Ask me anything on ``` topics = ["Python", "Data"] ```
-
-- 📧 How to reach me **sazidulislam29@gmail.com**
-
-
-### Tech Stacks
+### Tech stacks 🧑‍💻
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 <details>
-    
   <h4>Markup and Programming Languages</h4>
 
   <p>
@@ -39,14 +29,15 @@
   <h4>Frameworks and Libraries</h4>
 
   <p>
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
-      <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white">
       <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
       <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-377EB8.svg?logo=matplotlib&logoColor=white">
       <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-388E3C.svg?logo=seaborn&logoColor=white">
       <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white">
+      <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white">
+      <img alt="Taipy" src="https://img.shields.io/badge/Taipy-FF4B4B.svg?logo=taipy&logoColor=white">
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
+      
   </p>
 
   <h4>Cloud Hosting and Databases</h4>
@@ -79,8 +70,8 @@
       <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white&color=00A67E">
   </p>
 </details>
-    
-### GitHub Stats
+
+### GitHub stats 📈
 
 <details>
 <p align="center">
@@ -89,15 +80,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&layout=compact&theme=cobalt&hide_border=true" width=37.75%/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sazidthe1&bg_color=e0ebf1&color=4c689e&line=4c9e61&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </details>
 
+### Reach out 📫
 <p align="center">
-  <i>Have an interesting idea or topic to discuss, let's connect and chat!</i>
-  <p align="center">
-<a href="https://twitter.com/sazidthe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sazidthe1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sazidthe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazidthe1" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@sazidthe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sazidthe1" height="50" width="40" /></a>
-  
+  <a href="mailto:sazidulislam29@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/sazidthe1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/sazidthe1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<p align="center"> © 2023 Sazidul Islam. All rights reserved.</p>
+### Check repos ⬇️
