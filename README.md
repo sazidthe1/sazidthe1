@@ -6,6 +6,8 @@
 
 <h2  align="center"> Hi 👋, I'm Sazidul Islam! Welcome to my profile!</h2>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=03B4C1&style=flat" alt="sazidthe1"/>
+
 ### About me 🌱
 - 💻 Aspiring Data Scientist [@Kaggle](https://www.kaggle.com), based in Dhaka, BD
 - 🧠 I’m currently learning Data Science
