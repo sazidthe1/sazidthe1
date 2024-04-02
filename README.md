@@ -4,7 +4,7 @@
   <a target="_blank" href="https://public.tableau.com/app/profile/sazidthe1"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 </p>
 
-<h2  align="center"> Hi 👋, I'm Sazidul Islam! Welcome to my profile!</h2>
+<h2  align="center"> Hi, I'm Sazid! 👋 Welcome to my profile!</h2>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=03B4C1&style=flat" alt="sazidthe1"/>
 
