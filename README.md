@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Sazidul 👋</h1>
-
-<h3 align="center">BI Consultant | Freelance Power BI Developer</h3>
+<h3 align="center">Sazidul Islam - BI Consultant | Power BI Developer</h3>
 
 <p align="center">
   I help businesses turn fragmented data into trusted analytics for better decisions.
@@ -10,13 +8,13 @@
 
 ### About Me
 
-* 💼 **BI Consultant & Freelance Power BI Developer**
-* 📊 I design and develop **business intelligence solutions, interactive dashboards, and reporting systems**
-* 🧩 Experienced in **Power BI, DAX, Power Query, SQL, data modeling, and analytics**
-* ☁️ Working with modern data platforms including **Microsoft Fabric, Databricks, Snowflake, and dbt**
-* 🔄 Building scalable **data pipelines, semantic models, and self-service BI solutions**
-* 🌍 Open to **freelance consulting and remote BI opportunities**
-* 🚀 Focused on helping businesses turn data into **clear, actionable insights**
+* **BI Consultant / Power BI Developer**
+* I design and develop **business intelligence solutions, interactive dashboards, and reporting systems**
+* Experienced in **Power BI, DAX, Power Query, SQL, data modeling, and analytics**
+* Working with modern data platforms including **Microsoft Fabric, Databricks, Snowflake, and dbt**
+* Building scalable **data pipelines, semantic models, and self-service BI solutions**
+* Open to **freelance consulting and remote BI opportunities**
+* Focused on helping businesses turn data into **clear, actionable insights**
 
 ---
 
@@ -24,13 +22,13 @@
 
 | Area                         | Focus                                                           |
 | ---------------------------- | --------------------------------------------------------------- |
-| 📊 **Business Intelligence** | Power BI dashboards, KPI reporting, executive reporting         |
-| 🧠 **Data Modeling**         | Star schema, dimensional modeling, semantic models              |
-| ⚡ **Power BI Development**   | DAX, Power Query, data visualization, report development        |
-| 🗄️ **SQL & Data**           | SQL, PostgreSQL, MySQL, BigQuery                                |
-| ☁️ **Modern Data Stack**     | Microsoft Fabric, Databricks, Snowflake, dbt                    |
-| 🔄 **Data Transformation**   | ETL/ELT, Power Query, data preparation                          |
-| 📈 **Analytics**             | Business, marketing, sales, operational & performance analytics |
+| **Business Intelligence** | Power BI dashboards, KPI reporting, executive reporting         |
+| **Data Modeling**         | Star schema, dimensional modeling, semantic models              |
+| **Power BI Development**   | DAX, Power Query, data visualization, report development        |
+| **SQL & Data**           | SQL, PostgreSQL, MySQL, BigQuery                                |
+| **Modern Data Stack**     | Microsoft Fabric, Databricks, Snowflake, dbt                    |
+| **Data Transformation**   | ETL/ELT, Power Query, data preparation                          |
+| **Analytics**             | Business, marketing, sales, operational & performance analytics |
 
 ---
 
@@ -87,7 +85,7 @@ Projects demonstrating data modeling, SQL, Power Query, DAX, ETL/ELT, and dashbo
 
 #### 📈 Analytics Projects
 
-Exploratory and analytical projects using SQL, Python, Power BI, Tableau, and modern data platforms.
+Exploratory and analytical projects using SQL, Python, Power BI, and modern data platforms.
 
 ---
 
