@@ -1,94 +1,121 @@
+<h1 align="center">Hi, I'm Sazidul 👋</h1>
+
+<h3 align="center">BI Consultant | Freelance Power BI Developer</h3>
+
 <p align="center">
-  <a target="_blank" href="https://www.kaggle.com/sazidthe1/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a target="_blank" href="https://medium.com/@sazidthe1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a target="_blank" href="https://public.tableau.com/app/profile/sazidthe1"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+  I help businesses turn fragmented data into trusted analytics for better decisions.
 </p>
 
-<h2  align="center"> Hi, I'm Sazid! 👋 Welcome to my profile!</h2>
+---
 
-<img align="right" src="https://komarev.com/ghpvc/?username=sazidthe1&label=Profile%20views&color=03B4C1&style=flat" alt="sazidthe1"/>
+### About Me
 
-### About me 🌱
-- 💻 Aspiring Data Scientist [@Kaggle](https://www.kaggle.com), based in Dhaka, BD
-- 🧠 I’m currently learning Data Science
-- 🛠️ I mostly work with `Python`, `SQL`, and `Bash`
-- ✍️ I write technical blogs on [Medium](https://medium.com/@sazidthe1)
-- ⚡ I enjoy cycling, reading, and listening to podcasts :)
+* 💼 **BI Consultant & Freelance Power BI Developer**
+* 📊 I design and develop **business intelligence solutions, interactive dashboards, and reporting systems**
+* 🧩 Experienced in **Power BI, DAX, Power Query, SQL, data modeling, and analytics**
+* ☁️ Working with modern data platforms including **Microsoft Fabric, Databricks, Snowflake, and dbt**
+* 🔄 Building scalable **data pipelines, semantic models, and self-service BI solutions**
+* 🌍 Open to **freelance consulting and remote BI opportunities**
+* 🚀 Focused on helping businesses turn data into **clear, actionable insights**
 
-### Tech stacks 🧑‍💻
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+---
 
-<details>
-  <h4>Markup and Programming Languages</h4>
+### What I Do
 
-  <p>
-      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> 
-  </p>
+| Area                         | Focus                                                           |
+| ---------------------------- | --------------------------------------------------------------- |
+| 📊 **Business Intelligence** | Power BI dashboards, KPI reporting, executive reporting         |
+| 🧠 **Data Modeling**         | Star schema, dimensional modeling, semantic models              |
+| ⚡ **Power BI Development**   | DAX, Power Query, data visualization, report development        |
+| 🗄️ **SQL & Data**           | SQL, PostgreSQL, MySQL, BigQuery                                |
+| ☁️ **Modern Data Stack**     | Microsoft Fabric, Databricks, Snowflake, dbt                    |
+| 🔄 **Data Transformation**   | ETL/ELT, Power Query, data preparation                          |
+| 📈 **Analytics**             | Business, marketing, sales, operational & performance analytics |
 
-  <h4>Frameworks and Libraries</h4>
+---
 
-  <p>
-      <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
-      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-      <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-377EB8.svg?logo=matplotlib&logoColor=white">
-      <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-388E3C.svg?logo=seaborn&logoColor=white">
-      <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white">
-      <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white">
-      <img alt="Taipy" src="https://img.shields.io/badge/Taipy-FF4B4B.svg?logo=taipy&logoColor=white">
-      <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
-      
-  </p>
+### Tech Stack 🧑‍💻
 
-  <h4>Cloud Hosting and Databases</h4>
+#### Business Intelligence & Visualization
 
-  <p>
-      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-181717.svg?logo=github&logoColor=white">
-      <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white">
-      <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-f29111.svg?logo=mysql&logoColor=seablue">
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  </p>
-
-<h4>Analytics and Visualization</h4>
-
-  <p>
-      <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4.svg?logo=google-cloud&logoColor=white">
-      <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-025F6D.svg?logo=snowflake&logoColor=white">
-      <img alt="Looker" src="https://img.shields.io/badge/Looker-00AEF9.svg?logo=looker&logoColor=white">
-      <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?logo=powerbi&logoColor=white">
-   </p>
-
-  <h4>Software and Tools</h4>
-
-  <p>
-      <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44903d.svg?logo=anaconda&logoColor=white">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-      <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white&color=00A67E">
-  </p>
-</details>
-
-### GitHub stats 📈
-
-<details>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sazidthe1&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" width=55%/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sazidthe1&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" width=50%/> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&layout=compact&theme=cobalt&hide_border=true" width=37.75%/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sazidthe1&bg_color=e0ebf1&color=4c689e&line=4c9e61&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>
-
-### Reach out 📫
-<p align="center">
-  <a href="mailto:sazidulislam29@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/sazidthe1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/sazidthe1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?logo=powerbi&logoColor=black">
+  <img alt="Data Studio" src="https://img.shields.io/badge/Looker_Studio-4285F4.svg?logo=google&logoColor=white">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white">
 </p>
 
-### Check repos ⬇️
+#### Data & Analytics Engineering
+
+<p>
+  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B.svg?logo=dbt&logoColor=white">
+</p>
+
+#### Data Platforms & Cloud
+
+<p>
+  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-742774.svg?logo=microsoft&logoColor=white">
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621.svg?logo=databricks&logoColor=white">
+  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8.svg?logo=snowflake&logoColor=white">
+  <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4.svg?logo=google-cloud&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
+</p>
+
+#### Development & Tools
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078D4.svg?logo=visual-studio-code&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
+</p>
+
+---
+
+### Featured Projects 🚀
+
+#### 📊 Power BI Dashboard Portfolio
+
+Business-focused Power BI dashboards covering sales, marketing, operations, and performance analytics.
+
+#### 🏗️ BI & Data Solutions
+
+Projects demonstrating data modeling, SQL, Power Query, DAX, ETL/ELT, and dashboard development.
+
+#### 📈 Analytics Projects
+
+Exploratory and analytical projects using SQL, Python, Power BI, Tableau, and modern data platforms.
+
+---
+
+### GitHub Stats 📈
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sazidthe1&theme=vue-dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sazidthe1&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazidthe1&layout=compact&theme=cobalt&hide_border=true" width="40%"/>
+</p>
+
+---
+
+### Let's Connect 🤝
+
+<p align="center">
+  <a href="mailto:sazidulislam29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/sazidulislam1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://dashlytics.io/">
+    <img src="https://img.shields.io/badge/Website-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+### Check out my repositories ⬇️
